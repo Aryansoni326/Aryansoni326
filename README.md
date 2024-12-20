@@ -1,7 +1,7 @@
 <img width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&s">
 <h1 align="center">Hi 👋, I'm Aryan Bhadiyadra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" width="500px" alt="coding" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<img align="right" width="500px" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsmGd67GVmOFSsPzqCFzjRa0tRdaBrsrw_g&s.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansoni326&label=Profile%20views&color=0e75b6&style=flat" alt="aryansoni326" /> </p>
 
